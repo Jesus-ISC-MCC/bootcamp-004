@@ -1,3 +1,3 @@
 # bootcamp-003
 
-thi is just a test
+this is just a test 
