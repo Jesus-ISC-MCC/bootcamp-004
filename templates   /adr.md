@@ -61,6 +61,7 @@ Describa los efectos esperados tras la aplicación de esta decisión en el proye
 ### Positivas (Beneficios)
 * Mejora en la mantenibilidad, escalabilidad o seguridad del sistema.
 * Reducción de deuda técnica en la base de código.
+* Prueba
 
 ### Negativas / Riesgos (Compromisos)
 * Incremento inicial en el tiempo de desarrollo o complejidad operativa.
